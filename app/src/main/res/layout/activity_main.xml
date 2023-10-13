@@ -86,7 +86,6 @@
                 android:layout_column="2"
                 android:text="DEL"
                 android:textSize="22sp" />
-
         </TableRow>
 
         <TableRow
@@ -223,5 +222,6 @@
                 android:text="="
                 android:textSize="22sp" />
         </TableRow>
+
     </TableLayout>
 </androidx.constraintlayout.widget.ConstraintLayout>
